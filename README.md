@@ -1,7 +1,8 @@
 # Todo-App-Flask
-![view](https://user-images.githubusercontent.com/52791052/127924817-1a55eab0-6729-457a-bbeb-62a92117e74f.PNG)
+![view](https://user-images.githubusercontent.com/52791052/127925295-ca2ce733-0103-4d7a-9a94-7457470ed82c.PNG)
 
-# Requirements
+
+## Requirements
 ### click==8.0.1
 ### Flask==2.0.1
 ### Flask-SQLAlchemy==2.5.1
